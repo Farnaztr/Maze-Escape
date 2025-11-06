@@ -1,22 +1,19 @@
-# 🎮 Maze Escape Adventure
+<h1 align="center"> 🎮 Maze Escape Adventure
 
-## 🧩 Game Description
+</h1>
+
+---
+## Game Description
 
 Maze Escape Adventure combines **strategic movement** and **quick math solving** to challenge your mind and reflexes.  
 You’ll answer math equations to unlock the game, collect colorful point items, avoid obstacles, and find your way out of the maze!
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧮 **Math Challenges:**  
+- **Math Challenges:**  
   Solve two random equations before starting (in the form `ax + b = result`) to unlock gameplay.
-
-- 💎 **Point Collection:**  
-  Collect items to increase your score:
-  - 🔴 Red Item → +5 points  
-  - 🔵 Blue Item → +4 points  
-  - 🟢 Green Item → +8 points
 
 - 🚧 **Obstacle Avoidance:**  
   Touching walls or barriers deducts **1 point**.
@@ -61,19 +58,6 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
-## 🧾 Scoring System
-
-| Action | Effect |
-|--------|---------|
-| ✅ Correct math answers | Required to start |
-| 🔴 Collect red item | +5 points |
-| 🔵 Collect blue item | +4 points |
-| 🟢 Collect green item | +8 points |
-| ❌ Hit obstacle/wall | −1 point |
-
-🏁 Final score is displayed at the end of each game.
-
----
 
 ## ⚙️ Game Rules
 
@@ -111,10 +95,6 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
-## 🏆 Author
+## Author
 
-Developed by **[Your Name]**  
-Created for fun, logic, and skill!
-
----
-
+Developed by **[Farnaz](https://github.com/Farnaztr)**  
