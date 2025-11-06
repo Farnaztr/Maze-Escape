@@ -1,9 +1,5 @@
 # 🎮 Maze Escape Adventure
 
-**Maze Escape Adventure** is an exciting puzzle game built with **C# (Windows Forms)** where players navigate through a maze, solve math challenges, and collect points — all while avoiding obstacles to reach the exit!
-
----
-
 ## 🧩 Game Description
 
 Maze Escape Adventure combines **strategic movement** and **quick math solving** to challenge your mind and reflexes.  
