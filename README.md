@@ -94,8 +94,10 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 - ⌨️ **Mouse / Keyboard**
 
 ---
+<img src="
+<img  src="https://github.com/user-attachments/assets/5df3b0b6-c955-4b14-8066-bccc43abd07f" width="600" height="700" alt="image" />
+" alt="My Setup" width="300"/> 
 
-![Uploading image.png…]()
 
 
 ## Author
