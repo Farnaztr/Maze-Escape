@@ -68,7 +68,7 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
 - Plan your route before moving.  
 - Collect all point items for maximum score.  
@@ -77,7 +77,7 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
-## 🧰 Technical Details
+## Technical Details
 
 - 💻 Built with **C# Windows Forms**
 - ⚡ Real-time collision detection
@@ -87,7 +87,7 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
-## 🖥️ Requirements
+## Requirements
 
 - 🧩 **.NET Framework**
 - 💽 **Windows OS**
