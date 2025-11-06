@@ -59,7 +59,7 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 ---
 
 
-## ⚙️ Game Rules
+## Game Rules
 
 - You **cannot** pass through walls or barriers.  
 - Each collision costs **1 point**.  
