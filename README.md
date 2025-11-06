@@ -96,11 +96,19 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 ---
 
 <img  src="https://github.com/user-attachments/assets/5df3b0b6-c955-4b14-8066-bccc43abd07f" width="600" height="600" align="center" /> 
+
+---
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dd5a120c-48ac-4c0a-a305-265b4836d621" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c5e6a5ad-1945-42fd-b17b-d717646fc4fe" />   <img  width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/60cfca09-6885-4844-9fd0-3549d3264c05" />  <img  width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/7d468862-545f-42e1-bea4-620650f7a859" />
 
+---
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c5e6a5ad-1945-42fd-b17b-d717646fc4fe" />   
 
+---
+<img  width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/60cfca09-6885-4844-9fd0-3549d3264c05"/> 
 
+---
+
+ <img  width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7d468862-545f-42e1-bea4-620650f7a859" />
 
 
 ## Author
