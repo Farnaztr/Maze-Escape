@@ -101,7 +101,7 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dd5a120c-48ac-4c0a-a305-265b4836d621" />
 
 ---
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c5e6a5ad-1945-42fd-b17b-d717646fc4fe" />   
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c5e6a5ad-1945-42fd-b17b-d717646fc4fe" />   
 
 ---
 <img  width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/60cfca09-6885-4844-9fd0-3549d3264c05"/> 
