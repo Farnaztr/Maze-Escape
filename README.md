@@ -95,6 +95,9 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
+![Uploading image.png…]()
+
+
 ## Author
 
 Developed by **[Farnaz](https://github.com/Farnaztr)**  
