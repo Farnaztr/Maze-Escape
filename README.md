@@ -1,4 +1,4 @@
-<h1 align="center"> 🎮 Maze Escape Adventure
+<h1 align="center"> - Maze Escape Adventure -
 
 </h1>
 
