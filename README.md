@@ -29,7 +29,7 @@ You’ll answer math equations to unlock the game, collect colorful point items,
 
 ---
 
-## 🧠 How to Play
+##  How to Play?
 
 1. **Start the Game:**  
    Click the **"Start"** button.
